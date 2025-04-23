@@ -1,0 +1,19 @@
+{
+	"first_run_completed": false,
+	"head_text": "asdasd",
+	"items": [
+		{
+			"path": "res://node.tscn",
+			"type": "scene_tree"
+		},
+		{
+			"path": "res://addons/godot-ai-helper/godot-ai-helper.gd",
+			"type": "script"
+		},
+		{
+			"path": "res://new_script.gd",
+			"type": "script"
+		}
+	],
+	"tail_text": "asdasdasdads"
+}
