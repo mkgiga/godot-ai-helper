@@ -1,19 +1,15 @@
 {
-	"first_run_completed": false,
-	"head_text": "asdasd",
+	"first_run_completed": true,
+	"head_text": "Here is some vital information about my project:\n1. It's about a thing.\n2. Some planned features are:\n- A thing that can happen.\n- Some stuff that should happen",
 	"items": [
 		{
-			"path": "res://node.tscn",
+			"path": "res://test.tscn",
 			"type": "scene_tree"
 		},
 		{
-			"path": "res://addons/godot-ai-helper/godot-ai-helper.gd",
-			"type": "script"
-		},
-		{
-			"path": "res://new_script.gd",
+			"path": "res://test.gd",
 			"type": "script"
 		}
 	],
-	"tail_text": "asdasdasdads"
+	"tail_text": "IMPORTANT:\nPlease format your code to be epic, and cool.\nOnly cool and epic code, please."
 }
